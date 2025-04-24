@@ -1,4 +1,5 @@
 # Acts Common Tracking Software
+ACTS version 37.4.0 https://github.com/acts-project/acts/tree/v37.4.0
 ## Step by step instruction:
 
 #### Clone repo
